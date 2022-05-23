@@ -1,0 +1,56 @@
+.header{
+    padding: 40px 50px 30px 50px;
+}
+
+.nav_header{
+    /* border: 2px solid white; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav_logo{
+    color: #37823E;
+    text-decoration: none;
+    font-family: 'monument';
+    font-size: 25px;
+}
+
+.nav_logo:hover{
+    color: black;
+    transition: ease .3s;
+}
+
+.nav_menu{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    text-decoration: none;
+}
+
+.nav_link{
+    color: black;
+    text-decoration: none;
+    font-family: 'monument';
+    font-size: 17px;
+}
+
+.nav_link:hover{
+    color: #37823E;
+    transition: ease .3s;
+}
+
+.contact{
+    border: 2px solid #37823E;
+    border-radius: 50px;
+    padding: 5px 10px;
+    color: #37823E;
+}
+
+.contact:hover{
+    background-color: #37823E;
+    border: 1px solid #37823E;
+    transition: ease .3s;
+    color: white;
+}

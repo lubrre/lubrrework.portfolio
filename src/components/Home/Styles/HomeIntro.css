@@ -1,0 +1,28 @@
+.intro{
+    display: flex;
+    /* border: 1px solid black; */
+    margin-top: 150px;
+}
+
+.intro_info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.intro_name{
+    font-family: 'druk';
+    font-size: 30px;
+    text-align: left;
+}
+
+.intro_title{
+    font-family: 'druk';
+    font-size: 60px;
+    text-align: left;
+}
+
+.span_intro:hover{
+    color: #37823E;
+    cursor: pointer;
+}
