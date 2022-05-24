@@ -11,6 +11,7 @@ function HomeIntro() {
           Self-taught <br></br><span className="span_intro">UX DESIGNER</span><br></br> driven by curiosity
         </h1>
       </div>
+      <div className="intro_img"></div>
     </div>
   );
 }

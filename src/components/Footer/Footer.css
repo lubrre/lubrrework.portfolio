@@ -15,10 +15,26 @@
     text-decoration: none;
 }
 
+.footer_contact:hover{
+    background-color: #357a5e;
+    border: 1px solid #357a5e;
+    color: #fcf3ea;
+    transition: .3s ease;
+}
+
 .footer_link{
     display: flex;
     justify-content: space-between;
     width: 500px;
+}
+
+.social_link{
+    color: #357a5e;
+    text-decoration: none;
+}
+
+.social_link:hover{
+    color: black;
 }
 
 .footer_right{

@@ -1,7 +1,18 @@
 .intro{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     /* border: 1px solid black; */
-    margin-top: 150px;
+    margin-top: 70px;
+}
+
+.intro_img{
+    background-image: url(/src/assets/about/me_home.png);
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 600px;
 }
 
 .intro_info{
@@ -23,6 +34,7 @@
 }
 
 .span_intro:hover{
-    color: #37823E;
+    color: #357a5e;
+    transition: .2s ease;
     cursor: pointer;
 }

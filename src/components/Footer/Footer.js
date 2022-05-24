@@ -10,9 +10,9 @@ function Footer() {
           href="mailto:barrere.lucas@icloud.com?subject=formulaire de contact du portfolio"
           className="footer_contact">un projet ? parlons-en !</a>
         <div className="footer_link">
-          <p>privacy policy</p>
-          <p>instagram</p>
-          <p>behance</p>
+          <a href="https://www.instagram.com/lubrre/" className="social_link">instagram</a>
+          <a href="https://www.behance.net/lubrre" className="social_link">behance</a>
+          <p className="social_link">privacy policy</p>
         </div>
       </div>
       <p className="footer_right">2022 LUBRRE - ALL RIGHTS RESERVED</p>

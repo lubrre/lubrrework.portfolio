@@ -5,6 +5,7 @@ import "../Home/Styles/HomeProject.css";
 function HomeProject() {
   return (
     <div className="home_project">
+      <h1 className="HP_project">LES PROJETS</h1>
       <div className="HP_card">
         <p className="HP_number_left">01</p>
         <div className="HP_info_left">

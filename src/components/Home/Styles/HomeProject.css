@@ -1,13 +1,19 @@
 .home_project{
     display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
 
     gap: 50px;
 
-    margin-top: 300px;
+    margin-top: 50px;
 
     margin-bottom: 100px;
+}
+
+.HP_project{
+    font-family: 'monument';
+    font-size: 60px;
+    margin-bottom: 30px;
 }
 
 .HP_card{

@@ -10,7 +10,7 @@
 }
 
 .nav_logo{
-    color: #37823E;
+    color: #357a5e;
     text-decoration: none;
     font-family: 'monument';
     font-size: 25px;
@@ -37,20 +37,20 @@
 }
 
 .nav_link:hover{
-    color: #37823E;
+    color: #357a5e;
     transition: ease .3s;
 }
 
 .contact{
-    border: 2px solid #37823E;
+    border: 2px solid #357a5e;
     border-radius: 50px;
     padding: 5px 10px;
-    color: #37823E;
+    color: #357a5e;
 }
 
 .contact:hover{
-    background-color: #37823E;
-    border: 1px solid #37823E;
+    background-color: #357a5e;
+    border: 2px solid #357a5e;
     transition: ease .3s;
     color: white;
 }

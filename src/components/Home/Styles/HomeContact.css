@@ -12,6 +12,11 @@
 
 }
 
+.HC_hover:hover{
+    color: #357a5e;
+    cursor: pointer;
+}
+
 .HC_card{
     margin-top: 50px;
     margin-bottom: 200px;
@@ -27,7 +32,7 @@
     text-decoration: none;
     
 
-    color: black;
+    color: #357a5e;
     text-decoration: none;
 
     font-family: 'monument';
@@ -36,5 +41,6 @@
 }
 
 .icon_env{
+    color: #357a5e;
     font-size: 20px;
 }
