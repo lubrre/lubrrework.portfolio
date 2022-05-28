@@ -17,7 +17,7 @@ function HomeProject() {
       <div className="HP_card">
         <p className="HP_number_right">01</p>
         <div className="HP_info_right">
-          <h2 className="HP_title">PORSCHE RENTAL EXPERIENCE</h2>
+          <h2 className="HP_title">TAXI<br></br>ALLAN</h2>
           <div className="HP_img"></div>
         </div>
       </div>

@@ -18,6 +18,10 @@ import Project from './components/Project/Project';
 import About from './components/About/About';
 import Contact from './components/Contact/Contact';
 
+///import Project
+import Porsche from './components/Project/Porsche'
+import RaceClub from './components/Project/RaceClub'
+
 
 function App() {
   return (
@@ -29,6 +33,8 @@ function App() {
         <Route path="/project" element={<Project />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/contact" element={<Contact />}></Route>
+        <Route path="/porscherentalexperience" element={<Porsche />}></Route>
+        <Route path="/raceclub" element={<RaceClub />}></Route>
       </Routes>
 
       <Footer />

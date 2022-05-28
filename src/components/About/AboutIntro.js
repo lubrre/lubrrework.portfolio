@@ -12,7 +12,7 @@ function AboutIntro() {
     <div className="about">
       <div className="about_p1">
         <div className="about_info">
-          <h1 className="about_title">ABOUT</h1>
+          <h1 className="about_title">À PROPOS</h1>
           <p className="about_text">
             Salut, moi c'est Lucas et je suis un multi-disciplinaire créatif qui
             vit dans le sud de la France. Je suis spécialisé dans le Product

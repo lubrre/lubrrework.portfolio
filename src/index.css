@@ -17,12 +17,16 @@ code {
 @font-face {
 	font-family: 'monument';
 	src: url('/src/fonts/MonumentExtended-Regular.otf');
-  }
+}
 
-  @font-face {
+@font-face {
 	font-family: 'druk';
 	src: url('/src/fonts/DrukWideBold.ttf');
-  }
+}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&display=swap');
+
+font-family: 'Inter', sans-serif; */
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
