@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './Styles/OneProject.css'
+// import './Styles/RaceClubProject.css'
 
 function RaceClub() {
   return (

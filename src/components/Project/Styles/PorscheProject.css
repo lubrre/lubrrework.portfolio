@@ -1,0 +1,278 @@
+.porsche{
+    border-top: 3px solid black;
+}
+
+
+.porsche_title{
+    color: #357a5e;
+    font-family: 'druk';
+    font-size: 60px;
+    margin-top: 50px;
+}
+
+
+.porsche_icon{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'monument';
+
+    margin: 30px 50px;
+}
+
+.card_icon{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.icon{
+    font-size: 20px;
+    border: 2px solid black;
+    padding: 8px;
+    border-radius: 20px;
+    color: black;
+}
+
+.icon_title{
+    font-size: 20px;
+}
+
+.icon_detail{
+    font-size: 12px;
+}
+
+/* part_1 */
+
+.porsche_part1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    font-family: 'monument';
+
+    margin: 100px;
+
+}
+
+.brief{
+
+    width: 600px;
+}
+
+.porsche_secondtitle{
+    font-size: 40px;
+    -webkit-text-stroke: 2px #357a5e;
+    color: transparent;
+    text-align: left;
+}
+
+.porsche_title_detail{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.porsche_text_p1{
+    text-align: justify;
+    font-size: 13px;
+    margin-top: 20px;
+    line-height: 20px;
+    
+}
+
+/* company */
+
+.porsche_company{
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 0 50px;
+}
+
+.company{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.img_company{
+    background-image: url(/src/assets/projects/porsche/logo_1.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    width: 500px;
+    height: 300px;
+}
+
+
+.company_info{
+    width: 500px;
+    height: 300px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+
+    border-left: 3px solid black;
+
+    padding: 0 40px;
+}
+
+.title_company{
+    font-family: 'monument';
+    font-size: 30px;
+}
+
+.porsche_text{
+    font-family: 'monument';
+    font-size: 13px;
+    line-height: 20px;
+    text-align: justify;
+}
+
+
+.mainpages{
+    width: 600px;
+    line-height: 20px;
+    margin-top: 30px;
+}
+
+.userflow{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.CTA{
+    margin-top: 50px;
+}
+
+.porsche_brief_challenge{
+    display: flex;
+    align-items: center;
+}
+
+
+/* img porsche */
+
+.img_porsche_1{
+    background-image: url(/src/assets/projects/porsche/img1.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    width: 700px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.porscherentalexperience{
+    background-image: url(/src/assets/projects/porsche/porsche_logo.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    width: 600px;
+    height: 200px;
+    margin: 0 auto;
+
+}
+
+.porsche_mainpage{
+    background-image: url(/src/assets/projects/porsche/mainpage.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    width: 1200px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.porsche_onboarding{
+    background-image: url(/src/assets/projects/porsche/onboarding.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    width: 1200px;
+    height: 1120px;
+    margin: 0 auto;
+}
+
+.porsche_userflow{
+    background-image: url(/src/assets/projects/porsche/userflow.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    width: 1200px;
+    height: 660px;
+    margin: 0 auto;
+
+}
+
+.porsche_branding{
+    background-image: url(/src/assets/projects/porsche/porsche_logo_2.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    width: 1200px;
+    height: 300px;
+    /* border: 1px solid red; */
+
+}
+
+.porsche_picto{
+    background-image: url(/src/assets/projects/porsche/porsche_picto.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    width: 1200px;
+    height: 300px;
+    /* border: 1px solid red; */
+    margin-top: 50px;
+
+}
+
+.porsche_CTA{
+    background-image: url(/src/assets/projects/porsche/porsche_CTA.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    width: 1200px;
+    height: 500px;
+    /* border: 1px solid red; */
+    margin-top: 50px;
+
+}
+
+.porsche_typo{
+    background-image: url(/src/assets/projects/porsche/porsche_typo.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    width: 1200px;
+    height: 500px;
+    /* border: 1px solid red; */
+    margin-top: 50px;
+
+}
+
+.porsche_colors{
+    background-image: url(/src/assets/projects/porsche/porsche_colors.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    width: 1200px;
+    height: 500px;
+    /* border: 1px solid red; */
+    margin-top: 50px;
+
+}
